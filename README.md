@@ -11,6 +11,8 @@
 
  git clone https://github.com/DevilXPritam/WHATSAPP_CRASHER
 
+    cd WHATSAPP_CRASHER
+
   chmod +x DEVIL_PRITAM.py
 
  python3 DEVIL_PRITAM.py
